@@ -8,6 +8,7 @@
 }
 
 body {
+
 }
 
 header {
@@ -18,24 +19,46 @@ header {
 }
 
 section {
+  width: 33.3%;
+  margin-bottom: 20px;
+  padding: 20px;
+
+  
+
 }
 
 #left {
+  float: left;
+  color: #fff;
+  background-color: #30948d;
+  
+  
 }
 
 #middle {
+  float: left;
+  color: #fff;
+  background: #9e1212;
 }
 
+
 #right {
+  float:left;
+  color:#FFF;
+  background: #30948d;
 }
 
 #full {
+  
+
 }
 
 #division {
+  
 }
 
 aside {
+
 }
 
 footer {
